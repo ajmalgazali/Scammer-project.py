@@ -1,2 +1,2 @@
-# Scammer-project.py
-A Python base project designed to identify, analyze  and demonstrate common scam patterns for cybersecurity learning and awareness purpose.
+# Students grades project
+A basic script to manage and calculate students grade records.
